@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lVCZawVKgbX-sJ_PPgvW-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lVCZawVKgbX-sJ_PPgvW-1" target="lVCZawVKgbX-sJ_PPgvW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lVCZawVKgbX-sJ_PPgvW-1" value="quota" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lVCZawVKgbX-sJ_PPgvW-2" value="option" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
